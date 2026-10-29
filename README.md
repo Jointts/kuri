@@ -1,4 +1,4 @@
-<p align="center"><img src=".claude-plugin/icon.png" alt="Kurimanju" width="160"></p>
+<p align="center"><img src="docs/social-preview.png" alt="Kurimanju, an animated pet for Claude Code" width="720"></p>
 
 # Kurimanju
 
