@@ -1,8 +1,12 @@
-<p align="center"><img src="docs/social-preview.png" alt="Kurimanju, an animated pet for Claude Code" width="720"></p>
+<p align="center"><img src="docs/demo.gif" alt="Kurimanju, an animated pet for Claude Code: he walks while Claude works, has a taco, then drinks a beer, shouts HAAAA and throws the can" width="880"></p>
 
 # Kurimanju
 
-<p align="center"><img src="docs/demo.gif" alt="Kurimanju walking while Claude works, having a taco, then drinking a beer, shouting HAAAA and throwing the can" width="605"></p>
+```
+/plugin install kurimanju --marketplace Jointts/kuri
+```
+
+Needs Node.js 18+ and a terminal that draws images (Ghostty, Kitty, WezTerm, iTerm2 3.5+). More below.
 
 An animated pet that lives above the prompt in [Claude Code](https://claude.com/claude-code) and reacts to what Claude is actually doing.
 
