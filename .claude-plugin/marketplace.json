@@ -1,0 +1,6 @@
+{
+  "name": "kurimanju",
+  "description": "Kurimanju, an animated terminal pet for Claude Code.",
+  "owner": { "name": "Joonas Lume" },
+  "plugins": [{ "name": "kurimanju", "source": "./" }]
+}
