@@ -1,8 +1,8 @@
 <p align="center"><img src=".claude-plugin/icon.png" alt="Kurimanju" width="160"></p>
 
-<p align="center"><img src="docs/demo.gif" alt="Kurimanju walking while Claude works, having a taco, then drinking a beer, shouting HAAAA and throwing the can" width="605"></p>
-
 # Kurimanju
+
+<p align="center"><img src="docs/demo.gif" alt="Kurimanju walking while Claude works, having a taco, then drinking a beer, shouting HAAAA and throwing the can" width="605"></p>
 
 An animated pet that lives above the prompt in [Claude Code](https://claude.com/claude-code) and reacts to what Claude is actually doing.
 
