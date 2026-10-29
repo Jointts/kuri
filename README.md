@@ -1,7 +1,5 @@
 <p align="center"><img src="docs/demo.gif" alt="Kurimanju, an animated pet for Claude Code: he walks while Claude works, has a taco, then drinks a beer, shouts HAAAA and throws the can" width="880"></p>
 
-# Kurimanju
-
 ```
 /plugin install kurimanju --marketplace Jointts/kuri
 ```
