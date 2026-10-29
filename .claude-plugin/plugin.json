@@ -1,6 +1,6 @@
 {
   "name": "kurimanju",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "description": "Kurimanju, an animated pet above the prompt: walks while Claude works, has a snack at his pauses, drinks a beer and throws the can when a response is done, and falls asleep when you leave.",
   "author": { "name": "Joonas Lume" },
   "license": "MIT",
